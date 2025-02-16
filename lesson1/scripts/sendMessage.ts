@@ -1,4 +1,4 @@
-import { Address, beginCell, fromNano, toNano } from '@ton/core';
+import { Address, toNano } from '@ton/core';
 import { Proxy } from '../wrappers/Proxy';
 import { NetworkProvider } from '@ton/blueprint';
 

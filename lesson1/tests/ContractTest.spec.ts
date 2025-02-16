@@ -1,5 +1,5 @@
 import { Blockchain, SandboxContract, TreasuryContract } from '@ton/sandbox';
-import { toNano, Address } from '@ton/core';
+import { toNano } from '@ton/core';
 import { Proxy } from '../build/Proxy/tact_Proxy';
 import '@ton/test-utils';
 import { inspect } from "util";
