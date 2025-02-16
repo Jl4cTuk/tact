@@ -1,0 +1,1 @@
+export { Proxy } from '../build/Proxy/tact_Proxy';
